@@ -13,10 +13,10 @@ This repository benchmarks various models for monocular depth estimation. Our pr
 Implements and benchmarks Random Forest, Monodepth2, MiDaS, and SVM + XGBoost for monocular depth estimation.
 Evaluates models using Root Mean Squared Error (RMSE).
 Uses a subset of NYU Depth V2 for training and evaluation.
-'''
+
     git clone <repository_url>
     cd <repository_directory>
-'''
+<br>
 
     conda create -n depth_benchmarking python=3.10
     conda activate depth_benchmarking  
