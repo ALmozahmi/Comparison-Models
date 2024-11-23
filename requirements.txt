@@ -1,0 +1,15 @@
+opencv-python
+numpy
+pandas
+scikit-learn
+xgboost
+tqdm
+matplotlib
+joblib
+torch
+torchvision
+torchmetrics
+Pillow
+albumentations
+tensorflow
+scikit-image
