@@ -92,7 +92,7 @@ We welcome contributions! Follow these steps:
 
 
 
-MIT License
+<h2>MIT License</h2>
 
 Copyright (c) 2024 ALmozahmi
 
