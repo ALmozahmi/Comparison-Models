@@ -7,7 +7,7 @@ This repository benchmarks various models for monocular depth estimation. Our pr
 
 <h1>Features</h1>
 
-Implements and benchmarks Random Forest, Monodepth2, MiDaS, and SVM + XGBoost for monocular depth estimation.
+Implements and benchmarks Random Forest, Monodepth2,and SVM + XGBoost for monocular depth estimation.
 Evaluates models using Root Mean Squared Error (RMSE).
 Uses a subset of NYU Depth V2 for training and evaluation.
 
@@ -50,7 +50,7 @@ Models Implemented
 Random Forest
     A regression-based model using RGB images as features and depth maps as labels.  
 Monocular Depth Estimation (Deep Learning)
-    Benchmarks deep learning models like Monodepth2 or MiDaS.  
+    Benchmarks deep learning models like Monodepth2.  
 SVM + XGBoost (Our Model)
    Our approach using:
    SVM for initial feature transformation.
