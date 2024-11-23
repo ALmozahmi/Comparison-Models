@@ -72,9 +72,9 @@ To evaluate the trained models, run:
 
         python evaluate_models.py --model_path outputs/svm_xgboost.pkl --test_data data/test/
 
-    Note: Replace paths with your local directories.
+Note: Replace paths with your local directories.  
 
-    Results and Benchmarks
+Results and Benchmarks
 
 The models were evaluated using Root Mean Squared Error (RMSE). The benchmark results are:
 Model	RMSE
