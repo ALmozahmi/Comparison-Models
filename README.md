@@ -48,11 +48,11 @@ Ensure the dataset is organized as follows:
 
 
 Models Implemented
-1. Random Forest
+Random Forest
     A regression-based model using RGB images as features and depth maps as labels.  
-2. Monocular Depth Estimation (Deep Learning)
+Monocular Depth Estimation (Deep Learning)
     Benchmarks deep learning models like Monodepth2 or MiDaS.  
-3. SVM + XGBoost (Our Model)
+SVM + XGBoost (Our Model)
     A hybrid approach using:
    SVM for initial feature transformation.
    XGBoost for robust depth prediction.    
@@ -76,7 +76,8 @@ Note: Replace paths with your local directories.
 
 Results and Benchmarks
 
-The models were evaluated using Root Mean Squared Error (RMSE). The benchmark results are:
+The models were evaluated using Root Mean Squared Error (RMSE).   
+The benchmark results are:
 Model	RMSE
 Random Forest	104.33  
 SVM + XGBoost (Our Model)	25.02  
