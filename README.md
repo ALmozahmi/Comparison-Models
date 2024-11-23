@@ -27,7 +27,7 @@ Uses a subset of NYU Depth V2 for training and evaluation.
 
 <h2>##Dataset</h2>
 Depth Prediction Dataset (Kaggle)
-The dataset used is a subset of NYU Depth V2. You can download it from the following link:  
+The dataset used is a subset of NYU Depth V2. You can download it from the following link: <br>
 https://www.kaggle.com/code/drmaxx/depth-prediction-with-sklearn/input  
 
 
