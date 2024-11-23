@@ -25,7 +25,7 @@ Uses a subset of NYU Depth V2 for training and evaluation.
 
 <h2>##Dataset</h2>
 Depth Prediction Dataset (Kaggle)
-The dataset used is a subset of NYU Depth V2. You can download it from the following link:
+The dataset used is a subset of NYU Depth V2. You can download it from the following link:  
 https://www.kaggle.com/code/drmaxx/depth-prediction-with-sklearn/input  
 
 
@@ -61,7 +61,7 @@ SVM + XGBoost (Our Model)
 
    Running the Code
 Training + Evaluating (Pre-trained weights are loaded)
-To train the SVM + XGBoost model, run:
+To train and evaluate the SVM + XGBoost model, run:  
 
         python train_svm_xgboost.py --dataset_path data/ --output_path outputs/  
 
