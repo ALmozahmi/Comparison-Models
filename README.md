@@ -68,14 +68,16 @@ To train and evaluate the SVM + XGBoost model, run:
 
 Note: Replace paths with your local directories.  
 
-Results and Benchmarks
+# Results and Benchmarks
 
-The models were evaluated using Root Mean Squared Error (RMSE).   
-The benchmark results are:
-Model	RMSE
-Random Forest	104.33  
-SVM + XGBoost (Our Model)	25.02  
-Monocular Depth (DL)	5.70  
+The models were evaluated using **Root Mean Squared Error (RMSE)**.
+
+| Model                        | RMSE   |
+|------------------------------|--------|
+| Random Forest                | 104.33 |
+| SVM + XGBoost (Our Model)    | 25.02  |
+| Monocular Depth (DL)         | 5.70   |
+
 
 
 
