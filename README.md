@@ -28,7 +28,9 @@ Dataset
 The dataset used is a subset of NYU Depth V2. You can download it from the following link:
 https://www.kaggle.com/code/drmaxx/depth-prediction-with-sklearn/input
 Depth Prediction Dataset (Kaggle)
+
 Dataset Structure
+
 Note: The code files use paths specific to our local setup. Please update the paths to match your local directory structure for the models and datasets.
 Ensure the dataset is organized as follows:
 
