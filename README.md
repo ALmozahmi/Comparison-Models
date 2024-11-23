@@ -42,20 +42,15 @@ data/
 
 
 
-    Models Implemented
+Models Implemented
 1. Random Forest
-
     A regression-based model using RGB images as features and depth maps as labels.
-
 2. Monocular Depth Estimation (Deep Learning)
-
     Benchmarks deep learning models like Monodepth2 or MiDaS.
-
 3. SVM + XGBoost (Our Model)
-
     A hybrid approach using:
-        SVM for initial feature transformation.
-        XGBoost for robust depth prediction.
+   SVM for initial feature transformation.
+   XGBoost for robust depth prediction.
 
 
 
@@ -91,7 +86,7 @@ We welcome contributions! Follow these steps:
 
 
 
-    MIT License
+MIT License
 
 Copyright (c) 2024 ALmozahmi
 
