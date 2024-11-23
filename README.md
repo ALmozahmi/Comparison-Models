@@ -20,7 +20,7 @@ Uses a subset of NYU Depth V2 for training and evaluation.
 
     conda create -n depth_benchmarking python=3.10
     conda activate depth_benchmarking  
-
+<br>
 
     pip install -r requirements.txt
 
