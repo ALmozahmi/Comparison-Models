@@ -5,7 +5,7 @@ Comparing old classical method of depth estimation to the deep-learning
 
 Monocular Depth Estimation Benchmarking
 
-This repository benchmarks various models for monocular depth estimation. Our primary focus is the hybrid SVM + XGBoost model, which demonstrates classical performance compared to deep learning methods. Other models included in the repository (e.g., Monodepth2, Randomforest) are provided as references and Its not our own model.
+This repository benchmarks various models for monocular depth estimation. Our primary focus is the SVM + XGBoost model, which demonstrates classical performance compared to deep learning methods. Other models included in the repository (e.g., Monodepth2, Randomforest) are provided as references and Its not our own model.
 
 
 <h1>Features</h1>
@@ -55,7 +55,7 @@ Random Forest
 Monocular Depth Estimation (Deep Learning)
     Benchmarks deep learning models like Monodepth2 or MiDaS.  
 SVM + XGBoost (Our Model)
-    A hybrid approach using:
+   Our approach using:
    SVM for initial feature transformation.
    XGBoost for robust depth prediction.    
 
