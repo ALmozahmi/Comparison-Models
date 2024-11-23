@@ -65,7 +65,7 @@ SVM + XGBoost (Our Model)
 Training + Evaluating (Pre-trained weights are loaded)
 To train and evaluate the SVM + XGBoost model, run:  
 
-        python train_svm_xgboost.py --dataset_path data/ --output_path outputs/  
+        python XGBOOST+SVM.ipynb --dataset_path data/ --output_path outputs/  
 
 
 Note: Replace paths with your local directories.  
