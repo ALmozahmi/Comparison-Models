@@ -82,7 +82,7 @@ The models were evaluated using **Root Mean Squared Error (RMSE)**.
 
 
 
-Contributing
+<h2>Contributing</h2>
 
 We welcome contributions! Follow these steps:
 
