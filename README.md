@@ -14,8 +14,8 @@ Implements and benchmarks Random Forest, Monodepth2, MiDaS, and SVM + XGBoost fo
 Evaluates models using Root Mean Squared Error (RMSE).
 Uses a subset of NYU Depth V2 for training and evaluation.
 
-    git clone <[repository_url](https://github.com/ALmozahmi/Comparison-Models.git)>
-    cd <repository_directory>
+    git clone <https://github.com/ALmozahmi/Comparison-Models.git>
+    cd <Comparison-Models>
 <br>
 
     conda create -n depth_benchmarking python=3.10
