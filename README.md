@@ -5,7 +5,6 @@
 
 <h1>Installation</h1>
 <p>Implements and benchmarks Random Forest, Monodepth2, and SVM + XGBoost for monocular depth estimation.</p>
-<p>Evaluates models using Root Mean Squared Error (RMSE).<br>Uses a subset of NYU Depth V2 for training and evaluation.</p>
 
 <pre>
 git clone https://github.com/ALmozahmi/Comparison-Models.git
@@ -47,6 +46,11 @@ data/
     <ul>
       <li>SVM for initial feature transformation.</li>
       <li>XGBoost for robust depth prediction.</li>
+        <h3>Key Features</h3>
+<ul>
+    <li>Evaluation using Root Mean Squared Error (RMSE).</li>
+    <li>A subset of NYU Depth V2 dataset is used for training and evaluation.</li>
+</ul>
     </ul>
   </li>
 </ul>
@@ -103,10 +107,4 @@ furnished to do so, subject to the following conditions:</p>
 <p>The above copyright notice and this permission notice shall be included in all<br>
 copies or substantial portions of the Software.</p>
 
-<p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR<br>
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,<br>
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE<br>
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER<br>
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,<br>
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE<br>
-SOFTWARE.</p>
+<p>THE SOFTWARE IS PROVIDE
