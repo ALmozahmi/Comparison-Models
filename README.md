@@ -31,13 +31,15 @@ Dataset Structure
 
 Ensure the dataset is organized as follows:
 
-data/
-├── train/
-│   ├── images/
-│   ├── depths/
-├── test/
-    ├── images/
-    ├── depths/
+        data/
+        ├── train/
+        │   ├── images/
+        │   ├── depths/
+
+        
+        ├── test/
+            ├── images/
+            ├── depths/
 
 
 
