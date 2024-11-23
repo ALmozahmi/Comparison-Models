@@ -76,8 +76,12 @@ python XGBOOST+SVM.ipynb --dataset_path
     <td>Random Forest</td>
     <td>104.33</td>
   </tr>
+    <tr>
+    <td>XGBoost</td>
+    <td>40.09</td>
+  </tr>
   <tr>
-    <td>SVM + XGBoost (Our Model)</td>
+    <td>SVM</td>
     <td>25.02</td>
   </tr>
   <tr>
