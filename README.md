@@ -64,7 +64,7 @@ Training
 
 To train the SVM + XGBoost model, run:
 
-python train_svm_xgboost.py --dataset_path data/ --output_path outputs/
+python train_svm_xgboost.py --dataset_path data/ --output_path outputs/  
 
 Evaluation
 
