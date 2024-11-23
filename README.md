@@ -70,7 +70,7 @@ Evaluation
 
 To evaluate the trained models, run:
 
-python evaluate_models.py --model_path outputs/svm_xgboost.pkl --test_data data/test/
+        python evaluate_models.py --model_path outputs/svm_xgboost.pkl --test_data data/test/
 
     Note: Replace paths with your local directories.
 
