@@ -8,7 +8,7 @@ Monocular Depth Estimation Benchmarking
 This repository benchmarks various models for monocular depth estimation. Our primary focus is the hybrid SVM + XGBoost model, which demonstrates classical performance compared to deep learning methods. Other models included in the repository (e.g., Monodepth2, Randomforest) are provided as references and Its not our own model.
 
 
-Features
+#Features
 
 Implements and benchmarks Random Forest, Monodepth2, MiDaS, and SVM + XGBoost for monocular depth estimation.
 Evaluates models using Root Mean Squared Error (RMSE).
@@ -23,13 +23,13 @@ Uses a subset of NYU Depth V2 for training and evaluation.
     pip install -r requirements.txt
 
 
-Dataset
+##Dataset
 
 The dataset used is a subset of NYU Depth V2. You can download it from the following link:
 https://www.kaggle.com/code/drmaxx/depth-prediction-with-sklearn/input
 Depth Prediction Dataset (Kaggle)
 
-Dataset Structure
+###Dataset Structure
 
 Note: The code files use paths specific to our local setup. Please update the paths to match your local directory structure for the models and datasets.
 Ensure the dataset is organized as follows:
