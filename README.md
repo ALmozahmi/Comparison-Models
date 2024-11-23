@@ -60,7 +60,7 @@ data/
 <p>To train and evaluate the SVM + XGBoost model, run:</p>
 
 <pre>
-python XGBOOST+SVM.ipynb --dataset_path data/ --output_path outputs/
+python XGBOOST+SVM.ipynb --dataset_path
 </pre>
 <p><strong>Note:</strong> Replace paths with your local directories.</p>
 
