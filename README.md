@@ -23,7 +23,7 @@ Uses a subset of NYU Depth V2 for training and evaluation.
     pip install -r requirements.txt
 
 
-<h4>##Dataset</h4>
+<h2>##Dataset</h2>
 
 The dataset used is a subset of NYU Depth V2. You can download it from the following link:
 https://www.kaggle.com/code/drmaxx/depth-prediction-with-sklearn/input
